@@ -1,2 +1,2 @@
 # WebTest
-A place for playing aorund with making websites
+A place for playing around with making websites
